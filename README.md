@@ -3,6 +3,9 @@
 ## 📊 Overview
 The **Customer Churn Analysis Dashboard** is designed to help businesses identify key factors influencing customer churn. By leveraging **Power BI**, this dashboard provides valuable insights into churn trends, customer demographics, service usage, and payment behaviors.
 
+![alt text](https://github.com/NikhilC096/Customer-Churn-Analysis-Dashboard/blob/2af0245a3da396d2d0238269eea6d935da640f3b/1.PNG)
+
+![alt text](https://github.com/NikhilC096/Customer-Churn-Analysis-Dashboard/blob/2af0245a3da396d2d0238269eea6d935da640f3b/2.PNG)
 ## 🎯 Key Features
 - **Churn Rate Analysis**: Identifies the percentage of customers who left.
 - **Demographic Breakdown**: Analyzes churn based on gender, age, partner status, and dependents.
@@ -39,7 +42,7 @@ The dashboard provides a **data-driven approach** for predicting and preventing 
 - **Technical/Admin Ticket Correlation**: Visualizes churn among customers with frequent support requests.
 
 ## 🚀 How to Explore the Dashboard
-1. **Download the PBIX File** (if applicable) and open it in Power BI.
+1. **Download the PBIX File** and open it in Power BI.
 2. Use the **interactive filters** to explore churn trends by demographics, services, and payment methods.
 3. Analyze the **churn predictions and insights** to support retention strategies.
 
@@ -47,6 +50,6 @@ The dashboard provides a **data-driven approach** for predicting and preventing 
 If you have any questions or suggestions, feel free to **connect with me on LinkedIn** or contribute to this project!
 
 ---
-**🔗 [GitHub Repository Link] (To be added)**
+**🔗 
 
 #PowerBI #CustomerChurn #DataAnalytics #BusinessIntelligence #DataVisualization
