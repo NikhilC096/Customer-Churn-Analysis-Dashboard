@@ -51,6 +51,7 @@ If you have any questions or suggestions, feel free to **connect with me on Link
 
 ---
 **🔗 https://github.com/NikhilC096/Customer-Churn-Analysis-Dashboard
-** Connect with me in Linkedin : https://www.linkedin.com/in/nikhil-chandran-0a779b1a4/
+
+Connect with me in Linkedin : https://www.linkedin.com/in/nikhil-chandran-0a779b1a4/
 
 #PowerBI #CustomerChurn #DataAnalytics #BusinessIntelligence #DataVisualization
